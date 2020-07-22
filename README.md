@@ -83,10 +83,4 @@ For any quetions about the dataset please contact the authors by sending email t
 ([lianglysky@gmail.com](mailto:lianglysky@gmail.com)) or Prof. Jin
 ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
-## Acknowledgment
-This research is supported in part by National Nature Science 
-Foundation of China (No.61936003, No.61872151),  Natural 
-Science Foundation of Guangdong Province (No.2017A030312006, 
-No.2019A1515011045), the National Key Research and Development 
-Program of China (No. 2016YFB1001405), and Fundamental Research 
-Funds for the Central Universities (x2dxD2190570, 2019MS023).
+## Statement
