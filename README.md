@@ -4,8 +4,8 @@ The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text rec
 camera-captured document images is now released by Deep Leaning and Visual Computing Lab of South 
 China University of Technology. The dataset can be downloaded through the following link:
 
-- [Baidu Cloud](https://pan.baidu.com/s/12UMq-rELHBCt5a3FoSrnIg )  (Password : bwn5 , Size = 2.0GB)
-- [OneDrive](https://1drv.ms/u/s!AkXauEAZ68NKoQnN4uoBAsofeNTw?e=iAZxOL) 
+- [Baidu Cloud]()  (We will give the download link later)
+- [OneDrive]() 
 
 Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. 
 For scholars or organization who wants to use the SCUT-EPT database, please first fill 
