@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SCUT-HCCDoc_Dataset_Release
 
 The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text recognition (HCTR) in 
@@ -90,4 +91,3 @@ Science Foundation of Guangdong Province (No.2017A030312006,
 No.2019A1515011045), the National Key Research and Development 
 Program of China (No. 2016YFB1001405), and Fundamental Research 
 Funds for the Central Universities (x2dxD2190570, 2019MS023).
-
