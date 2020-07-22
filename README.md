@@ -14,7 +14,7 @@ and send it via email to us ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 When submiting the application form to us, please list or attached 1-2 of your 
 publications in recent 6 years to indicate that you (or your team) do research 
 in the related research fields of OCR, handwriting analysis and recognition, 
-document image processing, intelligent education, and so on. We will give you the 
+document image processing, and so on. We will give you the 
 decompression password after your letter has been received and approved. 
 
 ## Description
