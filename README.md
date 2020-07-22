@@ -4,8 +4,8 @@ The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text rec
 camera-captured document images is now released by Deep Leaning and Visual Computing Lab of South 
 China University of Technology. The dataset can be downloaded through the following link:
 
-- [Baidu Cloud](https://pan.baidu.com/s/1oo_wERSOAqKXlmvDqoBtlg)  (Password : dljf , Size = 2.0GB)
-- [OneDrive](https://1drv.ms/u/s!AkXauEAZ68NKmjJH6Tx74DK9dHsw?e=mpUMZ8) 
+- [Baidu Cloud](https://pan.baidu.com/s/12UMq-rELHBCt5a3FoSrnIg )  (Password : bwn5 , Size = 2.0GB)
+- [OneDrive](https://1drv.ms/u/s!AkXauEAZ68NKoQnN4uoBAsofeNTw?e=iAZxOL) 
 
 Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. 
 For scholars or organization who wants to use the SCUT-EPT database, please first fill 
@@ -23,8 +23,8 @@ The SCUT-HCCDoc Dataset contains 12,253 camera-captured natural images with 116,
 and 1,155,801 characters. According to different application scenes, SCUT-HCCDoc can be roughly
 divided into five subsets: 
 * HCCDoc-WT: images of traditional Chinese characters;
-* HCCDoc-WS: images of simplified Chinese characters without a formatted background;
-* HCCDoc-WSF: images of simplified Chinese characters with the formatted background;
+* HCCDoc-WS: images of simplified Chinese characters without a formatted background;
+* HCCDoc-WSF: images of simplified Chinese characters with the formatted background;
 * HCCDoc-SN: images of student notes;
 * HCCDoc-EP: images of examination papers.
 
@@ -70,7 +70,7 @@ observed character categories in the SCUT-HCCDoc.
 ## Citation and Contact
 Please consider to cite our paper when you use our dataset:
 ```
-@inproceedings{zhang2020hccdoc,
+@article{zhang2020hccdoc,
   author    = {Zhang, Hesuo and Liang, Lingyu and Jin, Lianwen},
   title     = {SCUT-HCCDoc: A New Benchmark Dataset of Handwritten Chinese Text in Unconstrained Camera-captured Documents},
   journal   = {Pattern Recognition},
