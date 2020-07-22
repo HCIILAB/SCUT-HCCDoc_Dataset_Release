@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SCUT-HCCDoc_Dataset_Release
 
 The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text recognition (HCTR) in 
