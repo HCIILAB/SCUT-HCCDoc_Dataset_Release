@@ -9,7 +9,7 @@ China University of Technology. The dataset can be downloaded through the follow
 
 
 Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. 
-For scholars or organization who wants to use the SCUT-EPT database, please first fill 
+For scholars or organization who wants to use the SCUT-HCCDoc database, please first fill 
 in this [Application Form](Application_Form/Application_Form_for_Using_SCUT-HCCDoc_2020.doc) 
 and send it via email to us ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)). 
 When submiting the application form to us, please list or attached 1-2 of your 
