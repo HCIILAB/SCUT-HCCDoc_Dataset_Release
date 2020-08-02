@@ -4,8 +4,9 @@ The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text rec
 camera-captured document images is now released by Deep Leaning and Visual Computing Lab of South 
 China University of Technology. The dataset can be downloaded through the following link:
 
-- [Baidu Cloud]()  (We will give the download link later)
-- [OneDrive]() 
+- [Baidu Cloud](https://pan.baidu.com/s/1xxgt3olnC3nh4-nf7K9Nvg)  (Password: dlvc, Size=2G)
+- [OneDrive](https://1drv.ms/u/s!AkXauEAZ68NKoQoaUccK7MjVetNq?e=RcQD8t) 
+
 
 Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. 
 For scholars or organization who wants to use the SCUT-EPT database, please first fill 
@@ -70,12 +71,13 @@ observed character categories in the SCUT-HCCDoc.
 ## Citation and Contact
 Please consider to cite our paper when you use our dataset:
 ```
-@article{zhang2020hccdoc,
-  author    = {Zhang, Hesuo and Liang, Lingyu and Jin, Lianwen},
-  title     = {SCUT-HCCDoc: A New Benchmark Dataset of Handwritten Chinese Text in Unconstrained Camera-captured Documents},
-  journal   = {Pattern Recognition},
-  year      = {2020},
-  publisher = {Elsevier}
+@article{zhang2020scut,
+  title={SCUT-HCCDoc: A New Benchmark Dataset of Handwritten Chinese Text in Unconstrained Camera-captured Documents},
+  author={Zhang, Hesuo and Liang, Lingyu and Jin, Lianwen},
+  journal={Pattern Recognition},
+  pages={107559},
+  year={2020},
+  publisher={Elsevier}
 }
 ```
 For any quetions about the dataset please contact the authors by sending email to Hesuo Zhang 
@@ -84,3 +86,11 @@ For any quetions about the dataset please contact the authors by sending email t
 ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
 ## Statement
+Many images of SCUT-HCCDoc are searched from the Internet, 
+we do not own the copyright of the images. For researchers and 
+educators who wish to use the images for non-commercial research and/or education 
+purpose, we provide the access to images and the corresponding annotations.
+The url of the web images are given in the dataset. 
+
+If you believe that any images or text in SCUT-HCCDoc violated your rights, 
+please let us know, and we will remove the images.
