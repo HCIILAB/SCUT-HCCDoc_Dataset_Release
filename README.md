@@ -81,14 +81,14 @@ Please consider to cite our paper when you use our dataset:
 }
 ```
 For any quetions about the dataset please contact the authors by sending email to Hesuo Zhang 
-([eehesuo.zhang@mail.scut.edu.cn](mailto:eehesuo.zhang@mail.scut.edu.cn)), Lingyu Liang
+([eehesuo.zhang@mail.scut.edu.cn](mailto:eehesuo.zhang@mail.scut.edu.cn)), Prof. Lingyu Liang
 ([lianglysky@gmail.com](mailto:lianglysky@gmail.com)) or Prof. Jin
 ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
 
 ## Statement
-Many images of SCUT-HCCDoc are searched from the Internet, 
+Many images of SCUT-HCCDoc are searched and downloaded from the Internet, 
 we do not own the copyright of the images. For researchers and 
-educators who wish to use the images for non-commercial research and/or education 
+developers who wish to use the images for non-commercial research and/or education 
 purpose, we provide the access to images and the corresponding annotations.
 The url of the web images are given in the dataset. 
 
