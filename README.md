@@ -9,7 +9,7 @@ China University of Technology. The dataset can be downloaded through the follow
 
 
 Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. 
-For scholars or organization who wants to use the SCUT-EPT database, please first fill 
+For scholars or organization who wants to use the SCUT-HCCdoc database, please first fill 
 in this [Application Form](Application_Form/Application_Form_for_Using_SCUT-HCCDoc_2020.doc) 
 and send it via email to us ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)). 
 When submiting the application form to us, please list or attached 1-2 of your 
@@ -66,7 +66,18 @@ observed character categories in the SCUT-HCCDoc.
 
 ![top50_chars](images/top_50_chars.png)
 
+## Text recognition baseline (updated)
 
+Here, we give the **latest baseline results**, which are different from those in the
+paper. In the paper, the input images of the recognizers are resize to 576 x 126 directly.
+However, we found that it is appropriate, because it will cause huge 
+deformations in the long text images. So when training, we keep the aspect ratio of input image, 
+and pad the image with zero pixels to a size of 2304 x 126. The network structure and 
+other training parameter settings are unchanged. The experiments have shown 
+ that it does lead to significant improvements, as 
+shown in the tables below.
+
+![updated_rec_result](images/updated_rec_result.jpg)
 
 ## Citation and Contact
 Please consider to cite our paper when you use our dataset:
