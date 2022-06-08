@@ -1,22 +1,12 @@
 # SCUT-HCCDoc_Dataset_Release
 
-The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text recognition (HCTR) in 
-camera-captured document images is now released by Deep Leaning and Visual Computing Lab of South 
-China University of Technology. The dataset can be downloaded through the following link:
+The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text recognition (HCTR) in camera-captured document images is now released by Deep Leaning and Visual Computing Lab of South China University of Technology. The dataset can be downloaded through the following link:
 
 - [Baidu Cloud](https://pan.baidu.com/s/1xxgt3olnC3nh4-nf7K9Nvg)  (Password: dlvc, Size=2G)
 - [OneDrive](https://1drv.ms/u/s!AkXauEAZ68NKoQoaUccK7MjVetNq?e=RcQD8t) 
 
 
-Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. 
-For scholars or organization who wants to use the SCUT-HCCDoc database, please first fill
-in this [Application Form](Application_Form/Application_Form_for_Using_SCUT-HCCDoc_2020.doc) 
-and send it via email to us ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)). 
-When submiting the application form to us, please list or attached 1-2 of your 
-publications in recent 6 years to indicate that you (or your team) do research 
-in the related research fields of OCR, handwriting analysis and recognition, 
-document image processing, and so on. We will give you the 
-decompression password after your letter has been received and approved. 
+Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the SCUT-HCCDoc database, please first fill in this [Application Form](Application_Form/Application_Form_for_Using_SCUT-HCCDoc_2020.doc) and send it via email to us ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, handwriting analysis and recognition, document image processing, and so on. We will give you the decompression password after your letter has been received and approved. 
 
 ## Description
 
@@ -54,28 +44,17 @@ The following are some page/text level images of SCUT-HCCDoc:
 
 
 The diversity of SCUT-HCCDoc can be described in three levels: 
-1) **Image-level diversity:** image appearance and geometric variances
-caused by camera-captured settings (such as perspective, background, and resolution) and 
-different applications (such as note-taking, test papers, and homework); 
+1) **Image-level diversity:** image appearance and geometric variances caused by camera-captured settings (such as perspective, background, and resolution) and  different applications (such as note-taking, test papers, and homework); 
 2) **Text-level diversity:** variances of text line length, rotation, etc.; 
-3) **Character-level diversity:** variances of character categories (up to 6,109 classes 
-with additional English letters, and digits), character size, individual writing style, etc.
+3) **Character-level diversity:** variances of character categories (up to 6,109 classes with additional English letters, and digits), character size, individual writing style, etc.
 
-For example, the following image shows the number of character instances for the 50 most frequently 
-observed character categories in the SCUT-HCCDoc.
+For example, the following image shows the number of character instances for the 50 most frequently observed character categories in the SCUT-HCCDoc.
 
 ![top50_chars](images/top_50_chars.png)
 
 ## Text recognition baseline (updated)
 
-Here, we give the **latest baseline results**, which are different from those in the
-paper. In the paper, the input images of the recognizers are resize to 576 x 126 directly.
-However, we found that it is appropriate, because it will cause huge 
-deformations in the long text images. So when training, we keep the aspect ratio of input image, 
-and pad the image with zero pixels to a size of 2304 x 126. The network structure and 
-other training parameter settings are unchanged. The experiments have shown 
- that it does lead to significant improvements, as 
-shown in the tables below.
+Here, we give the **latest baseline results**, which are different from those in the paper. In the paper, the input images of the recognizers are resize to 576 x 126 directly. However, we found that it is appropriate, because it will cause huge  deformations in the long text images. So when training, we keep the aspect ratio of input image, and pad the image with zero pixels to a size of 2304 x 126. The network structure and  other training parameter settings are unchanged. The experiments have shown that it does lead to significant improvements, as shown in the tables below.
 
 ![updated_rec_result](images/updated_rec_result.jpg)
 
@@ -91,17 +70,12 @@ Please consider to cite our paper when you use our dataset:
   publisher={Elsevier}
 }
 ```
-For any quetions about the dataset please contact the authors by sending email to Hesuo Zhang 
-([eehesuo.zhang@mail.scut.edu.cn](mailto:eehesuo.zhang@mail.scut.edu.cn)), Prof. Lingyu Liang
-([lianglysky@gmail.com](mailto:lianglysky@gmail.com)) or Prof. Jin
-([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)).
+For any quetions about the dataset please contact the authors by sending email to Prof. Jin
+([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)), Prof. Lingyu Liang
+([lianglysky@gmail.com](mailto:lianglysky@gmail.com)) or Hesuo Zhang 
+([eehesuo.zhang@mail.scut.edu.cn](mailto:eehesuo.zhang@mail.scut.edu.cn)).
 
 ## Statement
-Many images of SCUT-HCCDoc are searched and downloaded from the Internet, 
-we do not own the copyright of the images. For researchers and 
-developers who wish to use the images for non-commercial research and/or education 
-purpose, we provide the access to images and the corresponding annotations.
-The url of the web images are given in the dataset. 
+Many images of SCUT-HCCDoc are searched and downloaded from the Internet, we do not own the copyright of the images. For researchers and developers who wish to use the images for non-commercial research and/or education purpose, we provide the access to images and the corresponding annotations.The url of the web images are given in the dataset. 
 
-If you believe that any images or text in SCUT-HCCDoc violated your rights, 
-please let us know, and we will remove the images.
+If you believe that any images or text in SCUT-HCCDoc violated your rights, please let us know, and we will remove the images.
