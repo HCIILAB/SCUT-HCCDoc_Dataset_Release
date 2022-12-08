@@ -8,7 +8,7 @@ The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text rec
 
 Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the SCUT-HCCDoc database, please first fill in this [Application Form](Application_Form/Application_Form_for_Using_SCUT-HCCDoc_2020.doc) and send it via email to us ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, handwriting analysis and recognition, document image processing, and so on. We will give you the decompression password after your letter has been received and approved. 
 
-Please be noted that from December 2022, we are no longer accepting free use requests from companies. If a company applicant would like to use the dataset, please contact Dr. Jin ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)) to apply for commercial purposes usage.
+Please note that from December 2022, we are no longer accepting free use requests from companies. If a company applicant would like to use the dataset, please contact Dr. Jin ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)) to apply for commercial purposes usage.
 
 ## Description
 
