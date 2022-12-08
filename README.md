@@ -8,6 +8,8 @@ The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text rec
 
 Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the SCUT-HCCDoc database, please first fill in this [Application Form](Application_Form/Application_Form_for_Using_SCUT-HCCDoc_2020.doc) and send it via email to us ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, handwriting analysis and recognition, document image processing, and so on. We will give you the decompression password after your letter has been received and approved. 
 
+Please be noted that from December 2022, we are no longer accepting free use requests from companies. If a company applicant would like to use the dataset, please contact Dr. Jin ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)) to apply for commercial purposes usage.
+
 ## Description
 
 The SCUT-HCCDoc Dataset contains 12,253 camera-captured natural images with 116,629 text lines
@@ -71,9 +73,7 @@ Please consider to cite our paper when you use our dataset:
 }
 ```
 For any quetions about the dataset please contact the authors by sending email to Prof. Jin
-([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)), Prof. Lingyu Liang
-([lianglysky@gmail.com](mailto:lianglysky@gmail.com)) or Hesuo Zhang 
-([eehesuo.zhang@mail.scut.edu.cn](mailto:eehesuo.zhang@mail.scut.edu.cn)).
+([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)). 
 
 ## Statement
 Many images of SCUT-HCCDoc are searched and downloaded from the Internet, we do not own the copyright of the images. For researchers and developers who wish to use the images for non-commercial research and/or education purpose, we provide the access to images and the corresponding annotations.The url of the web images are given in the dataset. 
