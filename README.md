@@ -15,7 +15,7 @@ Have this document signed and stamped by your institution. Please also prepare 1
 
 **Step 2: Submit your application online:**
 
-> 🔗 **[SCUT DLVC Lab Dataset Access Portal → Apply for SCUT-HCCDoc](http://121.41.49.212:9000/apply/scutdccdoc)**
+> 🔗 **[SCUT DLVC Lab Dataset Access Portal → Apply for SCUT-HCCDoc](http://121.41.49.212:9000/apply/scuthccdoc)**
 
 Upload both signed documents through the portal and fill out the "Recent Publications" block. Your application will be reviewed manually and you will be notified by email once a decision has been made (typically within 1–5 business days).
 
