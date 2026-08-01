@@ -5,10 +5,27 @@ The SCUT-HCCDoc Dataset for the research of offline handwritten Chinese text rec
 - [Baidu Cloud](https://pan.baidu.com/s/1xxgt3olnC3nh4-nf7K9Nvg)  (Password: dlvc, Size=2G)
 - [OneDrive](https://1drv.ms/u/s!AkXauEAZ68NKoQoaUccK7MjVetNq?e=RcQD8t) 
 
+The SCUT-HCCDoc dataset can only be used for **non-commercial research purpose**. Trainging set and testing set are available now, but the training set is encrypted with additional code. To request access, please follow these steps:
 
-Note: The SCUT-HCCDoc dataset can only be used for non-commercial research purpose. For scholars or organization who wants to use the SCUT-HCCDoc database, please first fill in this [Application Form](Application_Form/Application_Form_for_Using_SCUT-HCCDoc_2020.doc) and send it via email to us ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)). When submiting the application form to us, please list or attached 1-2 of your publications in recent 6 years to indicate that you (or your team) do research in the related research fields of OCR, handwriting analysis and recognition, document image processing, and so on. We will give you the decompression password after your letter has been received and approved. 
+**Step 1: Download and complete the agreement document:**
 
-Please note that from December 2022, we are no longer accepting free use requests from companies. If a company applicant would like to use the dataset, please contact Dr. Jin ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)) to apply for commercial purposes usage.
+- [Application Form for Using SCUT-HCCDoc](Application_Form/Application_Form_for_Using_SCUT-HCCDoc_2020.doc)
+
+Have this document signed and stamped by your institution. Please also prepare 1–2 recent publications (within the last 6 years) as evidence that you or your team conduct research in OCR, handwriting analysis and recognition, document image processing, and so on.
+
+**Step 2: Submit your application online:**
+
+> 🔗 **[SCUT DLVC Lab Dataset Access Portal → Apply for SCUT-HCCDoc](http://121.41.49.212:9000/apply/scutdccdoc)**
+
+Upload both signed documents through the portal and fill out the "Recent Publications" block. Your application will be reviewed manually and you will be notified by email once a decision has been made (typically within 1–5 business days).
+
+**Step 3: Download the dataset:**
+
+After approval, you will receive the download link and decompression password via email.
+
+> ⚠️ All users must comply with the use conditions at all times; failure to do so will result in revocation of access.
+
+Please note that from December 2022, we are no longer accepting free use requests from companies. If a company applicant would like to use the dataset, please contact Prof. Jin ([eelwjin@scut.edu.cn](mailto:eelwjin@scut.edu.cn)) to apply for commercial purposes usage.
 
 ## Description
 
